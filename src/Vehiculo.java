@@ -29,6 +29,6 @@ public class Vehiculo {
     public String getColor(){return Color;}
     public String getPlaca(){return Placa;}
     public int getAno(){ return Ano;}
-    public double getOrecio(){ return Precio;}
+    public double getPrecio(){ return Precio;}
 
 }
